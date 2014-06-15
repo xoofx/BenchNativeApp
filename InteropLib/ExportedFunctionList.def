@@ -1,0 +1,5 @@
+LIBRARY	"InteropLib"
+EXPORTS
+	InteropAdd
+	InteropMatrixMul
+	InteropMatrixMulSSE2
